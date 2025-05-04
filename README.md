@@ -1,1 +1,3 @@
 # Passwordify_GUI
+
+An application for XAMPP for saving passwords...
